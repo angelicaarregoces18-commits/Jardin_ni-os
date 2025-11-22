@@ -1,3 +1,5 @@
+package co.edu.sena.jardin;
+
 public class Materias {
     private String nombre;
     private String area;

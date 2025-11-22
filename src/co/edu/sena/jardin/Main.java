@@ -1,3 +1,5 @@
+package co.edu.sena.jardin;
+
 public class Main {
     public static void main(String[] args) {
         System.out.println("SISTEMA JARDIN DE NIÑOS - 3 CLASES");

@@ -1,3 +1,5 @@
+package co.edu.sena.jardin;
+
 public class Maestros {
     private String nombre;
     private String especialidad;
